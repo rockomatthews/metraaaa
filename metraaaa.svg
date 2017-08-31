@@ -1,0 +1,122 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="750px" height="1334px" viewBox="0 0 750 1334">
+<defs>
+<image id="Layer_5_png" x="0" y="0" width="750" height="353" xlink:href="./images/Layer_5_png.png"/>
+
+<image id="sky_png" x="0" y="0" width="3018" height="361" xlink:href="./images/sky_png.png"/>
+
+<image id="blueBs_png" x="0" y="0" width="5569" height="517" xlink:href="./images/blueBs_png.png"/>
+
+<image id="OrangeStatues_png" x="0" y="0" width="4327" height="240" xlink:href="./images/OrangeStatues_png.png"/>
+
+<image id="orangePlane_png" x="0" y="0" width="421" height="75" xlink:href="./images/orangePlane_png.png"/>
+
+<image id="BanePlane_png" x="0" y="0" width="277" height="287" xlink:href="./images/BanePlane_png.png"/>
+
+<image id="tracks_png" x="0" y="0" width="750" height="13" xlink:href="./images/tracks_png.png"/>
+
+<image id="giphy_giphy_0" x="0" y="0" width="200" height="200" xlink:href="./images/giphy_giphy_0.png"/>
+
+<image id="baneTrain_png" x="0" y="0" width="1056" height="125" xlink:href="./images/baneTrain_png.png"/>
+
+<image id="top_png" x="0" y="0" width="750" height="250" xlink:href="./images/top_png.png"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,981) ">
+<use xlink:href="#Layer_5_png"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,250) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#sky_png"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -2007,389) ">
+<g id="orangeBuildings" transform="matrix( 1, 0, 0, 1, 1040,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#blueBs_png"/>
+</g>
+</g>
+</g>
+
+<g id="orangeStatues" transform="matrix( 1, 0, 0, 1, 0,339) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#OrangeStatues_png"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 1763,70) ">
+<g id="oragnePanes" transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#orangePlane_png"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 2537,0) ">
+<use xlink:href="#orangePlane_png"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 1268,28) ">
+<use xlink:href="#BanePlane_png"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,968) ">
+<use xlink:href="#tracks_png"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -1056,843) ">
+<g transform="matrix( 1, 0, 0, 1, 0,-187) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 165,0) ">
+<use xlink:href="#giphy_giphy_0"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,180) ">
+<use xlink:href="#baneTrain_png"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#top_png"/>
+</g>
+
+<g id="theTime" transform="matrix( 1, 0, 0, 1, 305.2,11.05) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="143.6" height="30" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"/>
+</g>
+
+<g id="theTimeSeconds" transform="matrix( 1, 0, 0, 1, 28.1,150.55) ">
+<clipPath id="Mask_Mask_2">
+<rect x="-0.9" y="-2" width="391.8" height="74" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_2)" writing-mode="lr"/>
+</g>
+
+<g id="theDate" transform="matrix( 1, 0, 0, 1, 435.8,150.55) ">
+<clipPath id="Mask_Mask_3">
+<rect x="-2" y="-2" width="287.2" height="74" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_3)" writing-mode="lr"/>
+</g>
+</svg>
